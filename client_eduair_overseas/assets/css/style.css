@@ -1683,7 +1683,7 @@ div#mCSB_1_container{
   color: #fff;
   font-size: 17px;
   line-height: 20px;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid #ec4e4f;
   font-weight: 400;
   margin-bottom: 15px;
   letter-spacing: 2px;
@@ -2248,7 +2248,7 @@ h3 a:hover{
 }
 
 .bg-color-1{
-  background: #2d5883;
+  background: #100d0c;
 }
 
 
@@ -3151,7 +3151,7 @@ h3 a:hover{
   position: relative;
   font-size: 20px;
   line-height: 28px;
-  color: #fff;
+  color: #ec4e4f;
   font-weight: 400;
   margin-bottom: 8px;
 }
@@ -3285,7 +3285,7 @@ h3 a:hover{
 }
 
 .inquiry-section .content-box .info-box li p{
-  color: #fff;
+  color: #ec4e4f;
   font-weight: 400;
   margin-bottom: 0px;
 }
