@@ -568,7 +568,7 @@ img {
   position:fixed;
   opacity:0;
   visibility:hidden;
-  background: #1f1a17;
+  background: #000;
   /* background: #162e40; 97bbd6*/
   left:0px;
   top:0px;
@@ -2627,7 +2627,7 @@ h3 a:hover{
 }
 
 .bg-color-2{
-  background: #1f1a17    
+  background: #000    
   /* 007ad6; 2a648e 5796c4 315773*/
   /* background: #0c2136; */
 }
