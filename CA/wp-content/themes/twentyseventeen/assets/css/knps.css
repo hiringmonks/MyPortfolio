@@ -122,7 +122,7 @@ p {
 	z-index: 9999;
 }
 .topbar_main {
-	background-color: rgb(179 176 173 / 82%);
+	background-color: #050521;
 	/* rgba(245,147,48,.8); */
 	margin: 0px;
 	padding: 0px;
@@ -155,14 +155,14 @@ p {
 	display: inline-block;
 	float: left;
 	display: inline-block;
-	border-left: solid 1px #a9a6a4;
+	border-left: solid 1px #07073c;
 	text-align: center;
 	line-height: 40px;
 	padding: 0;
 	width: 42px;
 }
 .socail li a:hover {
-	color: #012258;
+	color: #18ba60;
 }
 .num_mail {
 	display: inline-block;
@@ -172,7 +172,7 @@ p {
 	color: #fff;
 	font-size: 14px;
 	font-weight: 400;
-	border-left: solid 1px #a9a6a4;
+	border-left: solid 1px #07073c;
 	line-height: 40px;
 	padding-left: 12px;
 	margin-left: 12px;
@@ -185,10 +185,10 @@ p {
 	border-left: none;
 }
 .num_mail a:hover {
-	color: #012258;
+	color: #18ba60;
 }
 .header_sect {
-	background-color: #003f69c9;
+	background-color: #003f69;
 	margin: 0px;
 	padding: 0px;
 	display: inline-block;
@@ -200,7 +200,7 @@ p {
 	-moz-box-shadow: 0 3px 0 0 rgba(0,0,0,.21);
 	box-shadow: 0 3px 0 0 rgba(0,0,0,.21);
 }
-.darkHeader{background-color: #003f69c9; position:fixed; top:0px; left:0; z-index:9999;}
+.darkHeader{background-color: #003f69; position:fixed; top:0px; left:0; z-index:9999;}
 .header_mid {
 	margin: 0px;
 	padding: 15px 0px;
@@ -350,7 +350,7 @@ p {
 	line-height: 22px;
 }
 .core_valuemain p a {
-	color: #e67204;
+	color: #18ba60;
 	margin: 10px 0px;
 	display: inline-block;
 }
@@ -655,8 +655,8 @@ p {
 	float: left;
 }
 .inner_header{ position:static; float:left;}
-.inner_header .topbar_main{ background-color:rgb(179 176 173 / 82%);}
-.inner_header .header_sect{ background-color:#003f69c9;}
+.inner_header .topbar_main{ background-color:#050521;}
+.inner_header .header_sect{ background-color:#003f69;}
 
 .core_value {
 	display: flex;
@@ -666,7 +666,7 @@ p {
 	list-style: none; 
 }
 .core_value_box{ border:1px dashed #ccc; padding:25px;}
-.core_value li:hover .core_value_box{ border:1px dashed rgb(179 176 173 / 82%); background-color:#f9f9f9;}
+.core_value li:hover .core_value_box{ border:1px dashed #050521; background-color:#f9f9f9;}
 
 .core_value li {
 	width: 33.333%;
@@ -753,12 +753,12 @@ border-right:1px solid #;
 	height: 225px;
 }
 .topbar_main {
-	background-color: rgb(179 176 173 / 82%);
+	background-color: #050521;
 	/* #18ba60; */
 }
 .header_sect {
-	background-color: #003f69c9;
-	/* #003f69c9; */
+	background-color: #003f69;
+	/* #003f69; */
 }
 .menu_main {
 	margin-top: 16px;
@@ -844,7 +844,7 @@ border-right:1px solid #;
 	display: inline;
 }
 .socail ul {
-	border-bottom: 1px solid #a9a6a4;
+	border-bottom: 1px solid #07073c;
 	/* fe9f3f */
 }
 .socail li a {
