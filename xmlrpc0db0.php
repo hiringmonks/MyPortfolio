@@ -8,7 +8,7 @@
       <api name="Movable Type" blogID="1" preferred="false" apiLink="http://knps.co.in/xmlrpc.php" />
       <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://knps.co.in/xmlrpc.php" />
       <api name="Blogger" blogID="1" preferred="false" apiLink="http://knps.co.in/xmlrpc.php" />
-      	<api name="WP-API" blogID="1" preferred="false" apiLink="http://knps.co.in/wp-json/" />
+      	<api name="WP-API" blogID="1" preferred="false" apiLink="http://knps.co.in/sp-json/" />
 	    </apis>
   </service>
 </rsd>
